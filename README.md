@@ -45,9 +45,6 @@
 -Dynamic Filters (Slicers): Integrated interactive slicers for Region (Europe, North America, Pacific), Education, and Marital Status to allow instant cross-filtering.
 -Visual Representation: Features dynamic charts linking Income, Commute Distance, and Age Brackets directly to bike purchase counts.
 
-## 📸 Dashboard Preview
--(Add your actual dashboard screenshot here once uploaded)
-
 ## 🚀 How to View & Use This Project
 -Clone or download this repository:
 -git clone https://github.com/ayushsrivastava-web/Excel-Bike-Sales-Analytics-Dashboard.git
